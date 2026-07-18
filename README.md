@@ -71,3 +71,14 @@ Interests:
   - Networking & Homelab
   - Malware Analysis
   - Digital Forensics
+```
+
+---
+
+## >< Contact
+
+The easiest way to reach me is via email:
+
+**[contact@vuvietanh.com](mailto:contact@vuvietanh.com)**
+
+I also write about things I've learned, built, and experimented with on my personal blog — **[vuvietanh.com](https://vuvietanh.com)**.
